@@ -8,7 +8,7 @@ int main() {
     int t = 1000;
     Schema sh(1000, 45, 1, 1, 1);
     sh.setGeometry();
-sh.borderConditions();
+    
     string filename = "Tube.txt";
     sh.writeTube(filename);
 
