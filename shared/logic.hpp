@@ -11,7 +11,7 @@ const double PSI = 0;
 const double MU = 0.01;
 const double E = 0.1;
 const double MC = 0;
-const double U = 0.1;
+const double U = 0.01;
 const double MAX_COUNT = 30;
 
 const int H0(15), H1(10), H2(20);
